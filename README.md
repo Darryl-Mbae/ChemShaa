@@ -31,11 +31,7 @@ src/
   App.tsx
 ```
 
-## Design decisions
 
-- **Colors** were sampled from the provided screenshots and approximated as design tokens in `index.css` (`--color-brand-yellow`, `--color-beacon-core`, etc.). If pixel-exact matching is needed, re-sample the source screenshots with a color picker.
-- **The beacon glow animation** was not visible in the static screenshots provided, so it was interpreted and built from scratch: a pulsing core circle, three staggered expanding rings, and a soft radial gradient halo behind it, meant to read as a "live broadcast" glow. Durations/easing are easy to retune in `index.css` if the real app's timing differs.
-- **Component split** keeps `AppHeader` and `PulsingBeacon` isolated and reusable, since both are likely to reappear on other screens (e.g. the live trivia/host view).
 
 ## Bonus
 
