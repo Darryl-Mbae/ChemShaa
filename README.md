@@ -35,7 +35,7 @@ src/
 
 ## Bonus
 
-Clicking "Tune In" triggers a small animated "Employ me" badge that peeks in from the right edge of the screen and slides back out, built with Framer Motion — included as an optional flourish, not part of the original spec.
+Clicking "Tune In" triggers a small animated badge that peeks in from the right edge of the screen and slides back out, built with Framer Motion — included as an optional flourish, not part of the original spec.
 
 ## Notes
 
