@@ -7,7 +7,7 @@ A web recreation of the ChemShaa mobile app's "Live Now / Tune In" screen, built
 - [Vite](https://vitejs.dev/) — build tooling
 - [React 18](https://react.dev/) + [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind CSS v4](https://tailwindcss.com/) — CSS-first configuration via `@theme` (no `tailwind.config.js`)
-- [Framer Motion](https://www.framer.com/motion/) — the "Employ me" peek-in animation
+- [Framer Motion](https://www.framer.com/motion/)
 
 ## Getting started
 
